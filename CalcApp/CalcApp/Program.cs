@@ -23,7 +23,9 @@ namespace CalcApp
 
             switch (op)
             {
-
+                case 3: 
+                    Console.WriteLine(a * b);
+                    break;
             }
         }
     }
