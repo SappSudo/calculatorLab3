@@ -26,6 +26,10 @@ namespace CalcApp
                 case 1:
                     Console.WriteLine(a + b);
                     break;
+                
+                case 2:
+                    Console.WriteLine(a - b);
+                    break;
             }
         }
     }
