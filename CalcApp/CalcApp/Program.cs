@@ -39,7 +39,7 @@ namespace CalcApp
                 
                 case 4:
                     Console.WriteLine(a / b);
-                    breal;
+                    break;
             }
         }
     }
